@@ -1,4 +1,4 @@
-Completing 10 Beginner Python code challenges! 
+# Completing 10 Beginner Python code challenges! 
 1. Sort a list
 Create a function in Python that accepts two parameters. The first will be a list of numbers. The second parameter will be a string that can be one of the following values: asc, desc, and none.
 
